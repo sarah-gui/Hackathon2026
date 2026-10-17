@@ -1,6 +1,7 @@
 # Competition data: never commit
 data/
 *.parquet
+*.csv
  
 # Notebook checkpoints and Python junk
 .ipynb_checkpoints/
