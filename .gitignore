@@ -1,0 +1,8 @@
+# Competition data: never commit
+data/
+*.parquet
+ 
+# Notebook checkpoints and Python junk
+.ipynb_checkpoints/
+__pycache__/
+ 
