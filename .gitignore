@@ -2,7 +2,9 @@
 data/
 *.parquet
 *.csv
- 
+profile_reports/*.html
+
+
 # Notebook checkpoints and Python junk
 .ipynb_checkpoints/
 __pycache__/
