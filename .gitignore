@@ -3,7 +3,7 @@ data/
 *.parquet
 *.csv
 profile_reports/*.html
-
+profile_reports_emerging/*.html
 
 # Notebook checkpoints and Python junk
 .ipynb_checkpoints/
